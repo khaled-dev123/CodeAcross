@@ -8,5 +8,5 @@ To help learners understand and compare basic programming concepts across variou
 
     🐍 Python 
     ☕ Java 
-    💡 C 
-    🌐 JavaScript 
+    💡 
+    🌐  
